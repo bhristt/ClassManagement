@@ -1,0 +1,21 @@
+{
+  "name": "ClassManagement",
+  "tree": {
+    "$className": "DataModel",
+
+    "Workspace": {
+      "Example1": {
+        "$path": "src/example.server.lua"
+      },
+      "ExampleClass1": {
+        "$path": "src/ExampleClass1.lua"
+      },
+      "ExampleClass2": {
+        "$path": "src/ExampleClass2.lua"
+      },
+      "ManagedClass": {
+        "$path": "src/ManagedClass.lua"
+      }
+    }
+  }
+}
